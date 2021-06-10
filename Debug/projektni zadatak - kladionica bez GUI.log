@@ -1,0 +1,6 @@
+﻿  projektni zadatak - kladionica bez GUI.cpp
+C:\Users\Gb-beta\Documents\aip\gui\projektni zadatak - kladionica bez GUI\projektni zadatak - kladionica bez GUI.cpp(56,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gb-beta\Documents\aip\gui\projektni zadatak - kladionica bez GUI\projektni zadatak - kladionica bez GUI.cpp(167,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gb-beta\Documents\aip\gui\projektni zadatak - kladionica bez GUI\projektni zadatak - kladionica bez GUI.cpp(276,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gb-beta\Documents\aip\gui\projektni zadatak - kladionica bez GUI\projektni zadatak - kladionica bez GUI.cpp(15,110): warning C4101: 'pobjeda': unreferenced local variable
+  projektni zadatak - kladionica bez GUI.vcxproj -> C:\Users\Gb-beta\Documents\aip\gui\projektni zadatak - kladionica bez GUI\Debug\projektni zadatak - kladionica bez GUI.exe

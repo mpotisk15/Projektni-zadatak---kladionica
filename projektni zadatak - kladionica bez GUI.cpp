@@ -24,8 +24,7 @@ int main()
     printf("\n||   2.Loto 7/39                                   ||");
     printf("\n||   3.Bingo                                       ||");
     printf("\n||   4.Nogomente utakmice                          ||");
-    printf("\n||   5.Milijunas                                   ||");
-    printf("\n||   6.Izlaz                                       ||");
+    printf("\n||   5.Izlaz                                       ||");
     printf("\n||                                                 ||");
     printf("\n=====================================================");
     printf("\nUnesite broj novac koji zelite staviti na racun: ");
@@ -422,7 +421,7 @@ int main()
                 printf("\nBroj je bio %d.", a);
             }
         }*/
-        else if (odabir == 6)
+        else if (odabir == 5)
         {
         break;
         }

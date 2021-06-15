@@ -31,7 +31,6 @@ int main()
     cin >> pare;
     while(1)
     { 
-        cout << pare;
         printf("\n\nUpisite broj igre koju zelite igrati:");
         scanf("%d", &odabir);
         if (odabir == 1)
@@ -156,7 +155,8 @@ int main()
                 if (brojac == i)
                 {
                     printf("\nPogodeni brojevi: %d\n", i);
-                    printf("Dobitak: %dkn\n", i * 1000);
+                    printf("Dobitak: %dkn\n", i = i * 1000);
+                    pare += i;
                 }
             }
         }
@@ -232,8 +232,6 @@ int main()
                 printf("\n\nUpisite broj na koji tim se zelite kladiti, a kao mislite da ce biti izjednaceno upisite 0: ");
                 scanf("%d", &choice);
             }
-            printf("\nVas ulog: ");
-            scanf("%d", &novac);
             if (choice == 0 && tim1 > tim2)
             {
                 printf("Prvi tim je pobjedio.Niste nista osvojili.");
@@ -241,9 +239,8 @@ int main()
             else if (tim1 > tim2)
             {
                 printf("\nPobijedio je vas tim, sa rezultatom %d:%d", tim1, tim2);
-                novac = novac * 3;
-                printf("\nOsvojili ste %dkn.", novac);
-                pare += novac;
+                pare = pare * 3;
+                printf("\nOsvojili ste %dkn.", pare);
 
             }
             else if (choice == 0 && tim2 > tim1)
@@ -258,9 +255,8 @@ int main()
             }
             else if (choice == 0 && tim1 == tim2)
             {
-                novac = novac * 3;
-                printf("Utakmica je odigrana izjednaceno.Osvojili ste: %dkn", novac);
-                pare += novac;
+                pare = pare * 3;
+                printf("Utakmica je odigrana izjednaceno.Osvojili ste: %dkn", pare);
             }
             else if (tim1 == tim2)
             {

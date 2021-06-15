@@ -1,8 +1,9 @@
 ﻿  projektni zadatak - kladionica bez GUI.cpp
-C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(54,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(53,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(165,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(14,122): warning C4101: 'a': unreferenced local variable
 C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(14,110): warning C4101: 'pobjeda': unreferenced local variable
+C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(14,95): warning C4101: 'novac': unreferenced local variable
 C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(14,128): warning C4101: 'unos': unreferenced local variable
 C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\projektni zadatak - kladionica bez GUI.cpp(14,125): warning C4101: 'u': unreferenced local variable
   projektni zadatak - kladionica bez GUI.vcxproj -> C:\Users\Matej\Documents\GitHub\Projektni-zadatak---kladionica\x64\Debug\projektni zadatak - kladionica bez GUI.exe
